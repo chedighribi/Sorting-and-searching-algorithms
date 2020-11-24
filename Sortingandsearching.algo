@@ -13,6 +13,7 @@ BEGIN
         END_WHILE
             arr[j+1]:=key
     END_FOR
+    write (arr);
 END
 
 
